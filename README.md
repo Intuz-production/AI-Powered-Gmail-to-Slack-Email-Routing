@@ -8,9 +8,9 @@
 
 # Route Gmail Emails to Slack Channels Using AI
 
-Intuz helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch.
+[Intuz](https://www.intuz.com/) helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch
 
-[Website](https://intuz.com) · [N8N Creator](https://n8n.io/creators/intuz/) · [Workflow Automation](https://www.intuz.com/workflow-automation-services/) · [For Custom Workflow Automation](https://www.intuz.com/get-started/)
+[N8N Creator](https://n8n.io/creators/intuz/) · [AI Agent Development Services](https://www.intuz.com/ai-agents-for-business-automation/) · [Generative AI Development Company](https://www.intuz.com/generative-ai-development/) · [For Custom Workflow Automation](https://www.intuz.com/get-started/)
 
 ---
 
@@ -99,7 +99,11 @@ Save the workflow and toggle the **"Active"** switch to ON. Your intelligent ema
 
 If you need help setting up this workflow or require a custom version tailored to your specific use case, please feel free to reach out to the template author:
 
-* **Website:** https://www.intuz.com/n8n-workflow-automation-templates
+* **Website:** https://www.intuz.com/n8n-workflow-automation-templates/
 * **Email:** [getstarted@intuz.com](mailto:getstarted@intuz.com)
-* **LinkedIn:** https://www.linkedin.com/company/intuz
-* **Get Started:** https://www.intuz.com/get-started/
+* **LinkedIn:** https://www.linkedin.com/company/intuz/
+* **Get Started:** https://n8n.partnerlinks.io/intuz/
+
+## For Custom Workflow Automation
+
+[Click here - Get Started](https://www.intuz.com/get-started/)
